@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Ruby on Rails, Ruby, HTML, CSS, JavaScript, SQL, Stimulus.**
 
-- 👨‍💻 All of my collaborations in projects are also available at: [troopl.com/stamvogiatzop](troopl.com/stamvogiatzop)
-
 - 🌱I want to learn more about **React and React Native, Vue.js**
+
+- 👨‍💻 All of my collaborations in projects are also available at: [troopl.com/stamvogiatzop](troopl.com/stamvogiatzop)
 
 - 📫 How to reach me **stamvogiatzop@gmail.com**
 
