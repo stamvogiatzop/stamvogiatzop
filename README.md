@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 My name is Stamatis!</h1>
-<h3 align="center">A junior full-stack web developer and a former archaeologist (still trying to</h3>
+<h3 align="center">🤖 Growing Developer | Full-Stack Enthusiast</h3>
 
 - 🌱 I’m currently learning **Ruby on Rails, Ruby, HTML, CSS, JavaScript, SQL, Stimulus.**
 
@@ -8,6 +8,8 @@
 - 👨‍💻 All of my collaborations in projects are also available at: [troopl.com/stamvogiatzop](troopl.com/stamvogiatzop)
 
 - 📫 How to reach me **stamvogiatzop@gmail.com**
+
+- More about me: 🏺🔍🏛️ From Excavations, Labs and Museum Storages to Code Repositories **My background in archaeology has equipped me with a keen eye for detail, analytical thinking, and a problem-solving appetite!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
