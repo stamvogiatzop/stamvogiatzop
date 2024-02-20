@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋 My name is Stamatis!</h1>
 <h3 align="center">🤖 Growing Developer | Full-Stack Enthusiast</h3>
 
+- 🏺🔍🏛️ From Excavations, Labs and Museums to Code Repositories:
+  
 - 🌱 I’m currently learning **Ruby on Rails, Ruby, HTML, CSS, JavaScript, SQL, Stimulus.**
 
 - 🌱I want to learn more about **React and React Native, Vue.js**
@@ -9,8 +11,7 @@
 
 - 📫 How to reach me **stamvogiatzop@gmail.com**
 
-- 🏺🔍🏛️ From Excavations, Labs and Museums to Code Repositories:
-**My background in archaeology has equipped me with a keen eye for detail, analytical thinking, and a problem-solving appetite!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
