@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **stamvogiatzop@gmail.com**
 
-- 🏺🔍🏛️ From Excavations, Labs and Museum Storages to Code Repositories:
+- 🏺🔍🏛️ From Excavations, Labs and Museums to Code Repositories:
 **My background in archaeology has equipped me with a keen eye for detail, analytical thinking, and a problem-solving appetite!**
 
 <h3 align="left">Connect with me:</h3>
