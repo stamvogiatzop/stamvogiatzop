@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋 My name is Stamatis!</h1>
 <h3 align="center">🤖 Growing Developer | Full-Stack Enthusiast</h3>
 
-- 🏺🔍🏛️ From Excavations, Labs and Museums to Code Repositories:
+🏺🔍🏛️ From Excavations, Labs and Museums to Code Repositories:
   
 - 🌱 I’m currently learning **Ruby on Rails, Ruby, HTML, CSS, JavaScript, SQL, Stimulus.**
 
